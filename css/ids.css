@@ -278,7 +278,7 @@ hr {
 		text-decoration: none;
 		text-align: center;
 		color: white;
-		margin-left: 2em;
+		margin-left: 0em;
 		margin-right: 0em;
 		line-height: 50px;
 
@@ -430,7 +430,7 @@ hr {
 	}
 	
 #home {
-	background: url(/news-redesign/img/fullfamily.jpg) 50% 0 repeat fixed;
+	background: url(https://s3.amazonaws.com/media.ids/60546_img_0135edit3web2o.jpg) 50% 0 repeat fixed;
 	min-height:1000px;
 	 -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -439,7 +439,7 @@ hr {
 }
 
 #about {
-	background: url(/news-redesign/img/marwanh.jpg) 50% 0 repeat fixed;
+	background: url(https://s3.amazonaws.com/media.ids/60541_img_0142edit2web2o.jpg) 50% 0 repeat fixed;
 	min-height:1000px;
 	  -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -448,7 +448,7 @@ hr {
 }
 
 #dog {
-	background: url(/news-redesign/img/rakanh.jpg) 50% 0 repeat fixed;
+	background: url(https://s3.amazonaws.com/media.ids/60543_img_0152edit2web2o.jpg) 50% 0 repeat fixed;
 	min-height:1000px;
 	  -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -457,7 +457,7 @@ hr {
 }
 
 #rimis {
-	background: url(/news-redesign/img/rimish.jpg) 50% 0 repeat fixed;
+	background: url(https://s3.amazonaws.com/media.ids/60544_img_0157edit2web2o.jpg) 50% 0 repeat fixed;
 	min-height:1000px;
 	  -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -466,7 +466,7 @@ hr {
 }
 
 #marwanw {
-	background: url(/news-redesign/img/work4.jpg) 50% 0 repeat fixed;
+	background: url(https://s3.amazonaws.com/media.ids/60549_img_9380editweb2o.jpg) 50% 0 repeat fixed;
 	min-height:1000px;
 	  -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -475,7 +475,7 @@ hr {
 }
 
 #lona {
-	background: url(/news-redesign/img/school1.jpg) 50% 0 repeat fixed;
+	background: url(https://s3.amazonaws.com/media.ids/60555_img_9702editweb2o.jpg) 50% 0 repeat fixed;
 	min-height:1500px;
 	  -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -484,7 +484,7 @@ hr {
 }
 
 #papers {
-	background: url(/news-redesign/img/bagofpapers.jpg) 50% 0 repeat fixed;
+	background: url(https://s3.amazonaws.com/media.ids/60552_img_9470editweb2o.jpg) 50% 0 repeat fixed;
 	min-height:1500px;
 	  -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -493,7 +493,7 @@ hr {
 }
 
 #postoffice {
-	background: url(/news-redesign/img/postoffice.jpg) 50% 0 repeat fixed;
+	background: url(https://s3.amazonaws.com/media.ids/60542_img_0019editweb2o.jpg) 50% 0 repeat fixed;
 	min-height:1500px;
 	  -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -502,7 +502,16 @@ hr {
 }
 
 #car {
-	background: url(/news-redesign/img/car.jpg) 50% 0 repeat fixed;
+	background: url(https://s3.amazonaws.com/media.ids/60550_img_9409editweb2o.jpg) 50% 0 repeat fixed;
+	min-height:1500px;
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#lonaclass {
+	background: url(https://s3.amazonaws.com/media.ids/60554_img_9542editweb2o.jpg) 50% 0 repeat fixed;
 	min-height:1500px;
 	  -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -622,86 +631,6 @@ hr {
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width:1200px) { 
 
-#home {
-	background: url(/news-redesign/img/fullfamilylg.jpg) 50% 0 repeat fixed;
-	min-height:1000px;
-	 -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#about {
-	background: url(/news-redesign/img/marwanhlg.jpg) 50% 0 repeat fixed;
-	min-height:1000px;
-	  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#dog {
-	background: url(/news-redesign/img/rakanhlg.jpg) 50% 0 repeat fixed;
-	min-height:1000px;
-	  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#rimis {
-	background: url(/news-redesign/img/rimishlg.jpg) 50% 0 repeat fixed;
-	min-height:1000px;
-	  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#marwanw {
-	background: url(/news-redesign/img/work4lg.jpg) 50% 0 repeat fixed;
-	min-height:1000px;
-	  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#lona {
-	background: url(/news-redesign/img/school1lg.jpg) 50% 0 repeat fixed;
-	min-height:1500px;
-	  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#papers {
-	background: url(/news-redesign/img/bagofpaperslg.jpg) 50% 0 repeat fixed;
-	min-height:1500px;
-	  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#postoffice {
-	background: url(/news-redesign/img/postofficelg.jpg) 50% 0 repeat fixed;
-	min-height:1500px;
-	  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#car {
-	background: url(/news-redesign/img/carlg.jpg) 50% 0 repeat fixed;
-	min-height:1500px;
-	  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
 
  }
 
