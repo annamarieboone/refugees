@@ -143,6 +143,18 @@ Assume anything not under a media query is for .col-xs */
 	  font-size: 1.6em;
 	}
 
+	.fa-twitter {
+	  color: white;
+	  padding-right: .2em;
+	  font-size: 1.6em;
+	}
+
+	.pulledquote .fa-twitter {
+	  color: black;
+	  font-size: 1em;
+	  padding-left: .5em;
+	}
+
 	.fa-facebook {
 	  color: white;
 	  padding-right: .15em;
@@ -401,7 +413,7 @@ hr {
 
 
 .seperate {
-	text-align: left;
+	text-align: center;
 	letter-spacing: 10px;
 }
 
