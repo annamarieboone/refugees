@@ -19,21 +19,3 @@ var coords = '50% '+ yPos + 'px';
                     document.createElement("article");
                     document.createElement("section");
 
-$(function(){
-
-    $(window).scroll(function(e) {
-
-        var scrollAmount = $('body').scrollTop();   
-        console.log(scrollAmount);
-
-
-    if(scrollAmount >="theamountyouwant" && scrollAmount <= "theotheramountyouwant") {
-
-
-        $("#videoHolder").html(
-            '<video width="1200" height="700" autoplay>' +
-
-         '<source src="http://itp.nyu.edu/~rnr217/HTML5/Week3/video/testopen.webm" type="video/webm"></source>'  +
-        '<source src="http://itp.nyu.edu/~rnr217/HTML5/Week3/video/testopen.mp4" type="video/mp4"></source>' +
-
-         '</video>');
